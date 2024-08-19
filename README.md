@@ -1,2 +1,2 @@
 # exercism
-Coding practice using exercism.
+myCoding practice using exercism.
